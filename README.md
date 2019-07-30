@@ -3,6 +3,7 @@
 ## How to Access the server
 
 - Application is running at http://100.26.248.95/ in port 80.
+- Server is ubuntu, Running on amazon lightsail
 
 ## What is under the hood
 
