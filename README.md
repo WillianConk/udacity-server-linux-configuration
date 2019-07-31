@@ -24,3 +24,13 @@
 - Configured apache to serve the application;
 - Set the folder permissions at /var/www/catalog to enable apache to read the sqlite db file;
 - profit 🚀
+
+## External links that helped me to finish this project
+
+- https://www.digitalocean.com/community/questions/ubuntu-16-04-creating-new-user-and-adding-ssh-keys
+- https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart
+- http://www.devfuria.com.br/python/flask-apache/
+- https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04-quickstart
+- https://devops.ionos.com/tutorials/secure-the-ssh-server-on-ubuntu/
+- https://forums.cpanel.net/threads/folder-permission-755-and-file-permission-644-safe.124369/
+- https://linuxconfig.org/how-to-deny-all-incoming-ports-except-ftp-port-20-and-21-on-ubuntu-18-04-bionic-beaver-linux
