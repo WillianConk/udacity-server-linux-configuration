@@ -2,6 +2,9 @@
 
 ## How to Access the server
 
+- Install the private key supplied by me in the Udacity Review form
+- run ssh grader@100.26.248.95 -p 2200
+- The password for the grader user will also be supplied by me in the Udacity Review form. You won't be able to use it to login in the machine, though, since it's a requirement of this project. But it will come in handy if you want to use sudo commands.
 - Application is running at http://100.26.248.95/ in port 80.
 - Server is ubuntu, Running on amazon lightsail
 
